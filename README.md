@@ -17,6 +17,10 @@ Sinta-se livre para contribuir com a minha lista de livros!
 ### Matemática
 * O Fantástico Mundo dos Números
 
+### Economia
+
+*Antifrágil- Nassim Taleb 
+
 
 ### Livros lidos
 
