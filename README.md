@@ -19,7 +19,8 @@ Sinta-se livre para contribuir com a minha lista de livros!
 
 ### Economia
 
-* Antifrágil- Nassim Taleb 
+* Antifrágil- Nassim Taleb
+* Rápido e devagar- Daniel Kahneman
 
 
 ### Livros lidos
