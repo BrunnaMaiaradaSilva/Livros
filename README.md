@@ -21,9 +21,11 @@ Sinta-se livre para contribuir com a minha lista de livros!
 
 * Antifrágil- Nassim Taleb
 * Rápido e devagar- Daniel Kahneman
+* A lógica do Cisne Negro - Nassim Nicholas Taleb
 
 
 ### Livros lidos
 
 - [x] Conhecendo o Git
 - [x] Conhecendo o Rails
+- [x] A logica do Cisne Negro - Nassim Nicholas Taleb
