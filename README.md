@@ -11,6 +11,7 @@ Sinta-se livre para contribuir com a minha lista de livros!
 * Conhecendo o Ruby
 * Competitive Programming
 * Desconstruindo a web- as tecnologias por trás de uma requisição
+* Cracking the Coding Interview
 * CSharp in a Nutshell
 * Programming C#
 
@@ -22,6 +23,7 @@ Sinta-se livre para contribuir com a minha lista de livros!
 * Antifrágil- Nassim Taleb
 * Rápido e devagar- Daniel Kahneman
 * A lógica do Cisne Negro - Nassim Nicholas Taleb
+* Banking and the Business Cycle
 
 
 ### Livros lidos
